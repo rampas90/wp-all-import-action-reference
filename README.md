@@ -1,6 +1,6 @@
 # WP All Import/Export Action Reference
 
-This GitHub repo serves as documentation for WP All Import and WP All Export's actions. For support, questions, concerns, or anything else, please submit a support request: http://www.wpallimport.com/support/
+이 GitHub 레포는 WP All Import 및 WP All Export의 작업에 대한 문서로 사용됩니다. 지원, 질문, 우려 사항 또는 기타 문의 사항은 지원 요청서를 제출 하십시오 : http://www.wpallimport.com/support/
 
 ## WP-All-Import
 
